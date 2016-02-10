@@ -1,0 +1,6 @@
+{
+    "files": [
+        "express-graphql.d.ts",
+        "typings/main.d.ts"
+    ]
+}
